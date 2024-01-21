@@ -1,8 +1,0 @@
-pranayvirat186@outlook.com  Pranay@123
-//https://www.youtube.com/watch?v=1oGrDyFp9X8
-CMD:
-1)php artisan serve  // get localhost ip to run klaravel project
-2)composer create-project laravel/laravel /Applications/MAMP/htdocs/test_laravel //create project folder
-3)php artisan make:model Product -m //product is model name means table name of database and -m for migtration with database
-4)php artisan migrate:fresh //create table  in database which is set in env file
-5)php artisan make:controller ProductController
